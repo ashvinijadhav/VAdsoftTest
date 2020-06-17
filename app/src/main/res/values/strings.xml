@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VADsoftTest</string>
+    <string name="title_articles">Articles</string>
+    <string name="title_users">Users</string>
+</resources>
